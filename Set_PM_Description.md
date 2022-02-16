@@ -1,9 +1,8 @@
-# Automation Script: Set the PM Description Upon Save
+# Set the PM Description Upon Save
+### Busness Scenario: 
+Create a standard and predictable descriptions when a PM record is saved.  This will ensure uniform descriptions across all PM records.
 
-## Busness Scenario: 
-### Create a standard and predictable descriptions when a PM record is saved.  This will ensure uniform descriptions across all PM records.
-
-## Author: A3J Group info@a3jgroup.com
+### Author: A3J Group info@a3jgroup.com
 
 ### Script name is PM.SAVE and is called when PM record is saved.
 
